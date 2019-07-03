@@ -21,7 +21,7 @@
                echo '<td bgcolor="pink">';
         }*/
         $color= ($newj % 2 ==0)?'pink':'yellow';
-        echo  $color;
+        //echo  $color;
         echo "<td bgcolor=$color>";
         
         for ($i = 1 ; $i < 10 ; $i++ ){
